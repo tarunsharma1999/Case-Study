@@ -6,12 +6,6 @@ C:\Users\Tarun\source\repos\TruyumConsole\obj\Debug\TruyumConsole.csproj.CoreCom
 C:\Users\Tarun\source\repos\TruyumConsole\obj\Debug\TruyumConsole.csproj.CopyComplete
 C:\Users\Tarun\source\repos\TruyumConsole\obj\Debug\TruyumConsole.exe
 C:\Users\Tarun\source\repos\TruyumConsole\obj\Debug\TruyumConsole.pdb
-C:\Users\Tarun\source\repos\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Utility.dll
-C:\Users\Tarun\source\repos\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Utility.pdb
-C:\Users\Tarun\source\repos\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Dao.dll
-C:\Users\Tarun\source\repos\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Model.dll
-C:\Users\Tarun\source\repos\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Dao.pdb
-C:\Users\Tarun\source\repos\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Model.pdb
 C:\Users\Tarun\source\repos\TruyumConsole\obj\Debug\TruyumConsole.exe.config
 C:\Users\Tarun\source\repos\TruyumConsole\bin\Debug\MySql.Data.dll
 C:\Users\Tarun\source\repos\TruyumConsole\bin\Debug\Google.Protobuf.dll
