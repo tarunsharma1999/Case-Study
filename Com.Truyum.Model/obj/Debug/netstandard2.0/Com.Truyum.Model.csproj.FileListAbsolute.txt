@@ -1,0 +1,9 @@
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\bin\Debug\netstandard2.0\Com.Truyum.Model.deps.json
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\bin\Debug\netstandard2.0\Com.Truyum.Model.dll
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\bin\Debug\netstandard2.0\Com.Truyum.Model.pdb
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\obj\Debug\netstandard2.0\Com.Truyum.Model.csprojAssemblyReference.cache
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\obj\Debug\netstandard2.0\Com.Truyum.Model.AssemblyInfoInputs.cache
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\obj\Debug\netstandard2.0\Com.Truyum.Model.AssemblyInfo.cs
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\obj\Debug\netstandard2.0\Com.Truyum.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\obj\Debug\netstandard2.0\Com.Truyum.Model.dll
+C:\Users\Tarun\source\repos\case-study-csharp\Com.Truyum.Model\obj\Debug\netstandard2.0\Com.Truyum.Model.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7CE9JNJGr0cggs6K1FqvlGZRahKHK97IgMTPPeqInfp8cYK6Q9in052VlCoN6a4mbDxl9P8MetU7G+7GywkMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarun\\source\\repos\\New folder\\Case-Study\\Com.Truyum.Model\\Com.Truyum.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tarun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
